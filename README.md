@@ -12,8 +12,6 @@ ch14 AVPalyerViewController - 스토리 보드 구성과 코딩 내용은 간편
 .
 .
 .
-.
-.
 
 
 기말고사 PJ 
